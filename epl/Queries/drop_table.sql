@@ -1,0 +1,3 @@
+ALTER TABLE player
+DROP COLUMN age;
+
